@@ -6,6 +6,7 @@
     <type fullname="ButtonAndUi" preserve="all" />
     <type fullname="EmployeeGate" preserve="all" />
     <type fullname="FadeInOut" preserve="all" />
+    <type fullname="Game" preserve="all" />
     <type fullname="GetTools" preserve="all" />
     <type fullname="LodingScreen" preserve="all" />
     <type fullname="Main" preserve="all" />
@@ -13,6 +14,7 @@
     <type fullname="ScreenAdjustment" preserve="all" />
     <type fullname="TableGrid" preserve="all" />
     <type fullname="TableManager" preserve="all" />
+    <type fullname="UseProp" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -32,7 +34,6 @@
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.LightmapSettings" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
-    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
